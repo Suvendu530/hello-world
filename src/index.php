@@ -1,3 +1,3 @@
 <?php
-echo "Hello AEM!! Welcome to World of Technologies";
+echo "Hello AEM!! Thanks for your excellent support";
 ?>
